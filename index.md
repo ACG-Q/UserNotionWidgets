@@ -1,6 +1,19 @@
-# UserNotionWidgets
+# Notion Widgets
+
+## Widgets‘s describe
 
 私人构建的组件
+
+## Add Widget's method
+
+在 [Notion](https://www.notion.so/) 任意页面, 输入下面的命令
+
+``` 使用
+/excalidraw
+```
+然后, 输入 `https://acg-q.github.io/UserNotionWidgets/{{WidgetName}}.html` 即可
+
+By [Notion组件](https://www.notion.so/)
 
 ## Widgets‘s details
 
