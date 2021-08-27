@@ -1,5 +1,3 @@
-# Notion Widgets
-
 ## Widgets‘s describe
 
 私人构建的组件
@@ -19,6 +17,6 @@ By [Notion组件](https://www.notion.so/)
 
 |        Widgets‘s Source      |  Widgets‘s Name for English  | Widgets‘s Name for Chinese |
 | ---------------------------- | ---------------------------- | -------------------------- |
-| Xindu_Seven-day_Weather.html |  Xindu 7th weather Widgets   |       新都七日天气预报组件     |
+| Xindu_7th_Weather.html |  Xindu 7th weather Widgets   |       新都七日天气预报组件     |
 |         hitokoto.html        |       hitokoto Widgets       |       一言(hitokoto)组件     |
 |        Count_Down.html       |       Countdown Widgets      |            倒计时组件        |
