@@ -134,8 +134,9 @@
 </div>
 
 <script>
-	// https://cdn.jsdelivr.net/gh/ACG-Q/UserNotionWidgets@main/res/Resilio%20Sync%20Keys/key.json
+	// https://cdn.jsdelivr.net/gh/ACG-Q/UserNotionWidgets@main/res/Resilio_Sync_Keys/key.json
 	var clipboard = new ClipboardJS('.btn');
+  var keyUrl = 'https://cdn.jsdelivr.net/gh/ACG-Q/UserNotionWidgets@main/res/Resilio_Sync_Keys/key.json'
 
 	clipboard.on('success', function (e) {
 		console.info('Action:', e.action);
@@ -160,7 +161,7 @@
 	var vue = new Vue({
 		el: '#app',
 		created: () => {
-			axios.get('https://cdn.jsdelivr.net/gh/ACG-Q/UserNotionWidgets@main/res/Resilio%20Sync%20Keys/key.json')
+			axios.get(keyUrl)
 				.then((res) => {
 					let data = res.data;
 					// console.log(data);
