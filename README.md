@@ -10,3 +10,4 @@
 | hitokoto.html          | hitokoto Widgets                   | 一言(hitokoto)组件         |
 | Count_Down.html        | Countdown Widgets                  | 倒计时组件                 |
 | Resilio_Sync_Keys.html | Resilio Sync ’s Share Keys Widgets | 分享Resilio Sync Key的组件 |
+| emoji.html             | emoji Widgets                      | emoji组件                 |
