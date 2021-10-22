@@ -17,12 +17,13 @@ By [Notion组件](https://www.notion.so/)
 
 | Widgets‘s Source       | Widgets‘s Name for English         | Widgets‘s Name for Chinese |
 | ---------------------- | ---------------------------------- | -------------------------- |
-| Xindu_7th_Weather.html | Xindu 7th weather Widgets          | 新都七日天气预报组件       |
-| hitokoto.html          | hitokoto Widgets                   | 一言(hitokoto)组件         |
-| Count_Down.html        | Countdown Widgets                  | 倒计时组件                 |
-| Resilio_Sync_Keys.html | Resilio Sync ’s Share Keys Widgets | 分享Resilio Sync Key的组件 |
-| emoji.html             | emoji Widgets                      | emoji组件                  |
-| 2048Game.html          | Gmae’s 2048 Widgets                | 2048小游戏组件             |
+| [Xindu_7th_Weather.html](./Xindu_7th_Weather.html) | Xindu 7th weather Widgets          | 新都七日天气预报组件       |
+| [hitokoto.html](./hitokoto.html)          | hitokoto Widgets                   | 一言(hitokoto)组件         |
+| [Count_Down.html](./Count_Down.html)        | Countdown Widgets                  | 倒计时组件                 |
+| [Resilio_Sync_Keys.html](./Resilio_Sync_Keys.html) | Resilio Sync ’s Share Keys Widgets | 分享Resilio Sync Key的组件 |
+| [emoji.html](./emoji.html)           | emoji Widgets                      | emoji组件                  |
+| [2048Game.html](./2048Game.html)          | Gmae’s 2048 Widgets                | 2048小游戏组件             |
+| [newClock.html](./newClock.html)          | Clock Widgets                      | Clock组件                 |
 
 ## Notion's preview
 
